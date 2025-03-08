@@ -1,0 +1,4 @@
+#ifndef MASTER_OF_COPY_PASTE_H
+#define MASTER_OF_COPY_PASTE_H
+
+#endif // MASTER_OF_COPY_PASTE_H
